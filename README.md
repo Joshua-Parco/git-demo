@@ -25,10 +25,6 @@
 ------------------------- with github ----------------
 
 - git push origin master (when a couple chicks or done, or when teammate needs changes)
-<<<<<<< HEAD
-- gisdfgjlskdfjglksjdf
-=======
 - git pull origin master (when grabbing changes)
->>>>>>> 281a7d040ce5711e6082d39eb85edbff0cc80e58
 
 ---

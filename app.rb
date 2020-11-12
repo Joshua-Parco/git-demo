@@ -17,9 +17,14 @@ default_menu_hash = {
 menu_test = Menu.new(default_menu_hash)
 
 menu_test.print
+selection1 = menu_test.get_selection
+puts selection1
 
 casino_menu = Menu.new(menu2)
 casino_menu.print
+selection2 = casino_menu.get_selection
+puts selection2
+
 # Please Select a option
 #  1) option 1
 #  2) option 2
